@@ -4,3 +4,4 @@ target/
 test/
 project.clj/
 .lein-failures
+clojure.code-workspace
